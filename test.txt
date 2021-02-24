@@ -1,5 +1,5 @@
 {
-  "square":[
+  "square1":[
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-2.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-3.webp",
@@ -28,7 +28,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-26.webp"
 
     ],
-   "square1":[
+   "square":[
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square1/frame-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square1/frame-2.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square1/frame-3.webp",
