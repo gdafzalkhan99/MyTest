@@ -1,34 +1,6 @@
-{
-  "square1":[
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-1.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-2.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-3.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-4.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-5.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-6.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-7.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-8.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-9.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-10.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-11.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-12.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-13.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-14.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-15.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-16.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-17.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-18.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-19.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-20.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-21.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-22.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-23.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-24.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-25.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-26.webp"
 
-    ],
-   "square":[
+{
+  "portrait":[
   "https://i.imgur.com/BBYmP9C.png",
 "https://i.imgur.com/ITTqSrt.png",
 "https://i.imgur.com/ndWhJPr.png",
@@ -59,11 +31,10 @@
 "https://i.postimg.cc/RVZqZ453/frm12.png",
 "https://i.postimg.cc/LXS8KM38/frm13.png",
 "https://i.postimg.cc/qqMBqXYf/frm14.png"
-    ],
 
-
- "landscape":[
- "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-1.webp",
+   ],
+  "landscape":[
+    "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-1.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-2.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-3.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-4.webp",
@@ -106,9 +77,9 @@
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-41.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-42.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-43.webp",
- "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-44.webp"
- 
-  ],
+ "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-44.webp" 
+],
+
   "landscape1":[
   
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape1/frame-17.webp",
