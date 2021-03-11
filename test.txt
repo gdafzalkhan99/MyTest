@@ -1,6 +1,6 @@
 
 {
-  "portrait":[
+  "square":[
 
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-2.webp",
@@ -50,7 +50,41 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-46.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-47.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-48.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-49.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-49.webp",
+   
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-50.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-51.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-52.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-53.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-54.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-55.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-56.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-57.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-58.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-59.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-60.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-61.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-62.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-63.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-64.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-65.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-66.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-67.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-68.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-69.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-70.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-71.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-72.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-73.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-74.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-75.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-76.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-77.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-78.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-79.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-80.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-81.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-82.webp"
 
    ],
   "landscape":[
