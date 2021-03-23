@@ -19,7 +19,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-17.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-18.webp"
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-19.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-20.webp"  ,
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-20.webp",
     
     
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-1.webp",
