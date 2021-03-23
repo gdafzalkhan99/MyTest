@@ -102,5 +102,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-17.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-18.webp"
      
-    ]
+    ],
+    
+    "portrait":[]
 }
