@@ -104,5 +104,5 @@
      
     ],
     
-    "portrait":[]
+    "portrait":["https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-1.webp"]
 }
