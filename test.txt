@@ -17,7 +17,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-15.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-16.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-17.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-18.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-18.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-19.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-20.webp",
     
@@ -102,7 +102,5 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-17.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-18.webp"
      
-    ],
-    
-    "portrait":["https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-1.webp"]
-}
+    ]
+    }
