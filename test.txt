@@ -1,19 +1,16 @@
 { 
   "square":[
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-6.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-7.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-8.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-9.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-10.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-11.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-12.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-13.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-14.webp"
+    "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/EidNewSquare/dp_01.png",
+    "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/EidNewSquare/dp_02.png",
+    "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/EidNewSquare/dp_03.png",
+    "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/EidNewSquare/dp_04.png",
+    "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/EidNewSquare/dp_05.png",
+    "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/EidNewSquare/dp_06.png",
+    "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/EidNewSquare/dp_07.png",
+    "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/EidNewSquare/dp_08.png",
+    "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/EidNewSquare/dp_09.png",
+    "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/EidNewSquare/dp_10.png"
+    
     ],
     
   "portrait":[
