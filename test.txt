@@ -1,70 +1,49 @@
-{ 
+{
   "square":[
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-6.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-7.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-8.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-9.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-10.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-11.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-12.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-13.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-14.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-15.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-16.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-17.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-18.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-19.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-20.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-21.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-22.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-23.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-24.webp"
-    
-    ],
-    
-  "portrait":[
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-6.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-7.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-8.webp"
-    
-    ],
-    
-  "landscape":[
   
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_2.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_4.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_6.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_8.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_10.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_11.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_15.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_17.webp",
-
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_16.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_18.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_20.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_22.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_24.webp",
-
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/lnd/fram-1.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_21.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/land/image_23.webp",
-          
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/lnd/fram-2.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/lnd/fram-3.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/lnd/fram-4.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/lnd/fram-5.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/lnd/fram-9.webp"
-     
+  ],
+  
+  "portrait":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-11.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-12.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-13.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-14.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-15.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-16.webp"
+    
+    ],
+  "landscape":[
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/frame1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/frame2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/frame3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/frame4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/frame5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/frame6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/frame7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/frame8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/frame9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/frame10.webp"
     ]
 }
