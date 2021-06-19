@@ -23,6 +23,8 @@
   
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame7.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame22.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame17.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame3.webp",
@@ -37,12 +39,10 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame14.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame15.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame16.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame17.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame19.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame20.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame21.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame22.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame23.webp"
     
     ],
