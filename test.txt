@@ -1,5 +1,10 @@
 {
   "square":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/squr/fram-18.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/squr/fram-19.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/squr/fram-20.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/squr/fram-21.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/squr/fram-22.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/squr/fram-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/squr/fram-2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/squr/fram-3.webp",
@@ -20,34 +25,23 @@
     ],
   
   "portrait":[
-  
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame7.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame10.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame22.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame17.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame6.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame8.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame9.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame11.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame12.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame13.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame14.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame15.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame16.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame18.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame19.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame20.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame21.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/frame23.webp"
-    
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-12.webp"
+     
     ],
   "landscape":[
-  "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/land/f3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/land/f3.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/land/f5.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/land/f6.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/land/f11.webp",
