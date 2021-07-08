@@ -36,8 +36,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/prt/f18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/prt/f28.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-8.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-15.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-14.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-9.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-10.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-11.webp",
@@ -55,7 +53,10 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-4.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-5.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-6.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-7.webp"
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-7.webp",
+     
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-15.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-14.webp"
      
     ],
     
