@@ -1,11 +1,10 @@
 { 
   "square":[
+  
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/square/fram-17.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/square/fram-18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-6.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-7.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-8.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-9.webp",
@@ -25,7 +24,16 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-23.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-24.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-25.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-26.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/squrr/fram-26.webp",
+    
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/square/fram-19.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/square/fram-20.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/square/fram-21.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/square/fram-22.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/square/fram-23.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/square/fram-24.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/square/fram-25.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/square/fram-26.webp"
     ],
     
   "portrait":[
