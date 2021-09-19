@@ -123,7 +123,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-11.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-12.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-13.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-14.webp"
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-14.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-15.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-16.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-17.webp",
