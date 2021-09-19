@@ -19,12 +19,9 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr1/fram-17.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr1/fram-18.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr1/fram-19.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr1/fram-20.webp"
-	
-	
-    ],
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr1/fram-20.webp",
     
-  "square1":[
+
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr2/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr2/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr2/fram-3.webp",
@@ -66,11 +63,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port1/fram-17.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port1/fram-18.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port1/fram-19.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port1/fram-20.webp"
-	
-    ],
-    
-  "portrait1":[
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port1/fram-20.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port2/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port2/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port2/fram-3.webp",
@@ -116,11 +109,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land1/fram-19.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land1/fram-20.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land1/fram-21.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land1/fram-22.webp"
-     
-    ],
-    
-  "landscape1":[
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land1/fram-22.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-3.webp",
@@ -142,10 +131,8 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-19.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-20.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-21.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-22.webp"
-    ],
-    
-  "landscape2":[
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-22.webp",
+
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land3/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land3/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land3/fram-3.webp",
